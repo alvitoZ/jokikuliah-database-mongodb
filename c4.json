@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "650ab621078bdd06583512ca"
+  },
+  "soal": "<p>Sebuah mobil bergerak dari timur menuju ke barat sejauh 2 km dengan waktu yang dibutuhkan 4 menit dan kemudian berbelok ke utara sejauh 3 km dengan waktu yang dibutuhkan 6 menit maka kelajuan rata-rata mobil tersebut adalah….</p>",
+  "kategori": "c4",
+  "jawaban": [
+    {
+      "soal": "<p>8.1 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512cb"
+      }
+    },
+    {
+      "soal": "<p>. 8.2 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512cc"
+      }
+    },
+    {
+      "soal": "<p>8.3 m/s</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab621078bdd06583512cd"
+      }
+    },
+    {
+      "soal": "<p>8.4 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512ce"
+      }
+    },
+    {
+      "soal": "<p>8.5 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512cf"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:06:41.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:06:41.118Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab621078bdd06583512d0"
+  },
+  "soal": "<p>yang dinyatakan oleh v (t)=(3t2 + 2t+ 2) m/s dengan v dalam m/s, dan t dalam sekon. Percepatan sepeda motor tersebut pada saat t = 2 s sampai t = 4 s adalah….</p>",
+  "kategori": "c4",
+  "jawaban": [
+    {
+      "soal": "<p>10 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d1"
+      }
+    },
+    {
+      "soal": "<p>20 m/s2</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d2"
+      }
+    },
+    {
+      "soal": "<p>30 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d3"
+      }
+    },
+    {
+      "soal": "<p>40 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d4"
+      }
+    },
+    {
+      "soal": "<p>50 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d5"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:06:41.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:06:41.119Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab621078bdd06583512d6"
+  },
+  "soal": "<p>Gerak suatu benda pada lintasan lurus dengan kecepatan tetap. Definisi dari pernyataan ini adalah….</p>",
+  "kategori": "c4",
+  "jawaban": [
+    {
+      "soal": "<p>Kecepatan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d7"
+      }
+    },
+    {
+      "soal": "<p>Kelajuan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d8"
+      }
+    },
+    {
+      "soal": "<p>Percepatan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512d9"
+      }
+    },
+    {
+      "soal": "<p>GLB</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab621078bdd06583512da"
+      }
+    },
+    {
+      "soal": "<p>GLBB</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab621078bdd06583512db"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:06:41.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:06:41.119Z"
+  }
+}]

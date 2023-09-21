@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "64f98510ca269d2f6ee32e76"
+  },
+  "fullname": "kitan",
+  "password": "kitan",
+  "email": "kitan",
+  "gender": "1",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-07T08:08:48.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T12:26:17.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "64fb3791613c6b6400c8000b"
+  },
+  "fullname": "kitanguru",
+  "password": "kitanguru",
+  "email": "kucing2@gmail.com",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-08T15:02:41.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-16T11:35:23.073Z"
+  }
+},{
+  "_id": {
+    "$oid": "64fb37a2613c6b6400c8000e"
+  },
+  "fullname": "kitanadmin",
+  "password": "kitanadmin",
+  "email": "kitanadmin",
+  "gender": "",
+  "role": "admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-08T15:02:58.071Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T12:50:06.577Z"
+  },
+  "image": "default"
+},{
+  "_id": {
+    "$oid": "64fc4f094253d06076735f6a"
+  },
+  "fullname": "ikuyo",
+  "password": "ikuyo",
+  "email": "ikuyo2",
+  "gender": "0",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-09T10:55:05.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T10:47:46.357Z"
+  }
+},{
+  "_id": {
+    "$oid": "64fc50cd4253d06076735f7d"
+  },
+  "fullname": "ikuyoguru4",
+  "password": "ikuyoguru4",
+  "email": "ikuyoguru4",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-09T11:02:37.252Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T13:16:16.302Z"
+  }
+},{
+  "_id": {
+    "$oid": "65041b940b1a79dc1d29f8df"
+  },
+  "fullname": "menguru",
+  "password": "menguru",
+  "email": "menguru",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-15T08:53:41.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T08:53:41.052Z"
+  }
+},{
+  "_id": {
+    "$oid": "65043663c3aa9224bb285e55"
+  },
+  "fullname": "mengkitan",
+  "password": "mengkitan",
+  "email": "mengkitan",
+  "gender": "0",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-15T10:48:03.155Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T10:48:03.155Z"
+  }
+},{
+  "_id": {
+    "$oid": "6505933ba7adedd354b2cf3f"
+  },
+  "fullname": "meong",
+  "password": "meong",
+  "email": "meong",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-16T11:36:27.910Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-16T11:36:27.910Z"
+  }
+},{
+  "_id": {
+    "$oid": "6506f418f0eaf67b56226aa5"
+  },
+  "fullname": "alvito",
+  "password": "alvito",
+  "email": "alvito@gmail.com",
+  "gender": "0",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-17T12:42:00.073Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T12:42:00.073Z"
+  }
+},{
+  "_id": {
+    "$oid": "6506f7429631cbde939c6c05"
+  },
+  "fullname": "alvitoguru",
+  "password": "alvitoguru",
+  "email": "guru@gmail.com",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-17T12:55:30.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T12:55:30.452Z"
+  }
+},{
+  "_id": {
+    "$oid": "6506fc539631cbde939c6d04"
+  },
+  "fullname": "contohguru",
+  "password": "contohguru",
+  "email": "contohguru",
+  "gender": "",
+  "role": "guru",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-17T13:17:07.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T13:17:07.491Z"
+  }
+},{
+  "_id": {
+    "$oid": "6506fc8b9631cbde939c6d0d"
+  },
+  "fullname": "contohsiswa",
+  "password": "contohsiswa",
+  "email": "contohsiswa",
+  "gender": "0",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-17T13:18:03.356Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T13:18:03.356Z"
+  }
+},{
+  "_id": {
+    "$oid": "650c392716a5ecc62e405b5c"
+  },
+  "fullname": "cobasiswa",
+  "password": "cobasiswa",
+  "email": "cobasiswa@gmail.com",
+  "gender": "1",
+  "role": "siswa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-21T12:37:59.712Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T12:37:59.712Z"
+  }
+}]

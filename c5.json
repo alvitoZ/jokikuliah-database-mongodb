@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "650ab679078bdd06583512dd"
+  },
+  "soal": "<p>Perhatikan pernyataan berikut ini:</p><p>1. Jarak merupakan besaran vektor dan perpidahan merupakan besaran skalar</p><p>2. Perpindahan merupakan besaran vektor dan jarak merupakan besaran scalar</p><p>3. Jarak merupakan panjang lintasan yang ditempuh suatu benda dan perpindahan merupakan perubahan kedudukan suatu benda</p><p>4. Jarak merupakan perubahan kedudukan suatu benda dan perpindahan merupakan panjang lintasan yang ditempuh suatu benda. Pernyataan di atas yang menyatakan perbedaan antara jarak dan perpindahan yang benar ditunjukkan oleh nomor ….</p>",
+  "kategori": "c5",
+  "jawaban": [
+    {
+      "soal": "<p>. 1 dan 2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512de"
+      }
+    },
+    {
+      "soal": "<p>2 dan 3</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab679078bdd06583512df"
+      }
+    },
+    {
+      "soal": "<p>3 dan 4</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e0"
+      }
+    },
+    {
+      "soal": "<p>1,2 dan 3</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e1"
+      }
+    },
+    {
+      "soal": "<p>1, 2, 3 dan 4</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e2"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:08:09.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:08:09.737Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab679078bdd06583512e3"
+  },
+  "soal": "<p>Jarak dari kota A ke kota B adalah 115 km. Pak Budi berangkat dari kota A pukul 09.00 menuju kota B menggunakan kendaraan dengan kecepatan 50 km/jam. Pak Budi akan sampai ke kota B pada pukul ….</p>",
+  "kategori": "c5",
+  "jawaban": [
+    {
+      "soal": "<p>11.15</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e4"
+      }
+    },
+    {
+      "soal": "<p>11.18</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e5"
+      }
+    },
+    {
+      "soal": "<p>11.20</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e6"
+      }
+    },
+    {
+      "soal": "<p>11.30</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e7"
+      }
+    },
+    {
+      "soal": "<p>11.30</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512e8"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:08:09.738Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:08:09.738Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab679078bdd06583512e9"
+  },
+  "soal": "<p>Jarum spidometer pada sebuah mobil menunjukkan angka 60, berarti ...</p>",
+  "kategori": "c5",
+  "jawaban": [
+    {
+      "soal": "<p>kelajuan mobil 60 km/jam</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512ea"
+      }
+    },
+    {
+      "soal": "<p>kecepatan mobil 60 km/jam</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab679078bdd06583512eb"
+      }
+    },
+    {
+      "soal": "<p>jarak yang ditempuh mobil 60 km setiap jam</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512ec"
+      }
+    },
+    {
+      "soal": "<p>kecepatan rata-rata mobil 60 km/jam</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab679078bdd06583512ed"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:08:09.738Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:08:09.738Z"
+  }
+}]

@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "650ab73d078bdd06583512ef"
+  },
+  "soal": "<p>Rumus yang digunakan untuk menentukan kecepatan adalah..</p>",
+  "kategori": "c6",
+  "jawaban": [
+    {
+      "soal": "<p>ν = ν0 + at*</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f0"
+      }
+    },
+    {
+      "soal": "<p>ν = ν0 + at</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f1"
+      }
+    },
+    {
+      "soal": "<p>ν = ν0 x at</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f2"
+      }
+    },
+    {
+      "soal": "<p>ν = ν0 : at</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f3"
+      }
+    },
+    {
+      "soal": "<p>ν x ν0 + at</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f4"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab73d078bdd06583512f5"
+  },
+  "soal": "<p>Rumus mencari kelajuan rata-rata adalah.</p>",
+  "kategori": "c6",
+  "jawaban": [
+    {
+      "soal": "<img src=\"http://localhost:3001/images/image-1694787190793-442206841.PNG\">",
+      "status": true,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f6"
+      }
+    },
+    {
+      "soal": "<img src=\"http://localhost:3001/images/image-1694787218905-866524880.PNG\">",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f7"
+      }
+    },
+    {
+      "soal": "<img src=\"http://localhost:3001/images/image-1694787259577-64925878.PNG\">",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f8"
+      }
+    },
+    {
+      "soal": "<img src=\"http://localhost:3001/images/image-1694787283663-372546383.PNG\">",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512f9"
+      }
+    },
+    {
+      "soal": "<img src=\"http://localhost:3001/images/image-1694787302203-937428907.PNG\">",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512fa"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab73d078bdd06583512fb"
+  },
+  "soal": "<p>Sebuah mobil bergerak dari keadaan diam dengan percepatan 5 m. mobil tersebut kemudian bergerak dengan konstan. Setelah beberapa saat mobil mulai diperlambat 5m, hingga berhenti. Bila kecepatan rata-rata mobil adalah 20m/s dan waktu total untuk bergerak 25 detik maka mobil tadi bergerak dengan kecepatan tetap selama….</p>",
+  "kategori": "c6",
+  "jawaban": [
+    {
+      "soal": "<p>5 sekon</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512fc"
+      }
+    },
+    {
+      "soal": "<p>10 sekon</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512fd"
+      }
+    },
+    {
+      "soal": "<p>15 sekon</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512fe"
+      }
+    },
+    {
+      "soal": "<p>20 sekon</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd06583512ff"
+      }
+    },
+    {
+      "soal": "<p>25 sekon</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab73d078bdd0658351300"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:11:25.472Z"
+  }
+}]

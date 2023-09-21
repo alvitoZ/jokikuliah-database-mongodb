@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "650ab5bb078bdd06583512b7"
+  },
+  "soal": "<p>Yang merupakan defenisi dari perpindahan adalah…. cobaedit</p>",
+  "kategori": "c2",
+  "jawaban": [
+    {
+      "soal": "<p>Perubahan kedudukan suatu benda</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512b8"
+      }
+    },
+    {
+      "soal": "<p>Panjang lintasan suatu benda</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512b9"
+      }
+    },
+    {
+      "soal": "<p>Jumlah jarak yang ditempuh dalam waktu tempuh total</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512ba"
+      }
+    },
+    {
+      "soal": "<p>Besar perpindahan rata-rata</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512bb"
+      }
+    },
+    {
+      "soal": "<p>Hasil bagi perubahan kecepatan terhadap selang waktu</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512bc"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:04:59.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T12:46:02.869Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab5bb078bdd06583512bd"
+  },
+  "soal": "<p>Perhatikan pernyataan berikut ini!</p><p>1. Panjang lintasan yang ditempuh suatu benda</p><p>2. Jumlah jarak yang ditempuh dalam waktu tempuh total</p><p>3. Perubahan kedudukan suatu benda</p><p>4. Besar perpindahan rata-rata dibagi waktu tempuh.</p><p>Berdasarkan pernyataan di atas yang termasuk dalam kelajuan dan kecepatan rata-rata adalah….</p>",
+  "kategori": "c2",
+  "jawaban": [
+    {
+      "soal": "<p>1 dan 2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512be"
+      }
+    },
+    {
+      "soal": "<p>1 dan 3</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512bf"
+      }
+    },
+    {
+      "soal": "<p>2 dan 3</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c0"
+      }
+    },
+    {
+      "soal": "<p>2 dan 4</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c1"
+      }
+    },
+    {
+      "soal": "<p>1, 2, 3 dan 4</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c2"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:04:59.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:04:59.419Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab5bb078bdd06583512c3"
+  },
+  "soal": "<p>Gerak benda pada lintasan lurus dengan perceptan konstan. Definisi dari pernyataan ini adalah….</p>",
+  "kategori": "c2",
+  "jawaban": [
+    {
+      "soal": "<p>Kecepatan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c4"
+      }
+    },
+    {
+      "soal": "<p>Kelajuan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c5"
+      }
+    },
+    {
+      "soal": "<p>Perceatan</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c6"
+      }
+    },
+    {
+      "soal": "<p>GLB</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c7"
+      }
+    },
+    {
+      "soal": "<p>GLBB</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab5bb078bdd06583512c8"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T09:04:59.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T09:04:59.419Z"
+  }
+}]

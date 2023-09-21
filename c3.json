@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "650ab3f51b30638e1d299f69"
+  },
+  "soal": "<p>Seorang pelari berlari dari posisi A pada x1 = 10 m menuju ke arah kiri sampai pada x2 = 4 m ke titik B jika selang waktu yang dibutuhkan orang tersebut 2 sekon. Kecepatan pelari tersebut adalah….</p>",
+  "kategori": "c3",
+  "jawaban": [
+    {
+      "soal": "<p>-3 m/s</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f6a"
+      }
+    },
+    {
+      "soal": "<p>3 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f6b"
+      }
+    },
+    {
+      "soal": "<p>-4 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f6c"
+      }
+    },
+    {
+      "soal": "<p>4 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f6d"
+      }
+    },
+    {
+      "soal": "<p>-5 m/s</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f6e"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab3f51b30638e1d299f6f"
+  },
+  "soal": "<p>Sebuah mobil dari keadaan diam dipercepat selama 6 s sehingga kecepatan akhirnya menjadi 20 m/s. Besar percepatan mobil tersebut adalah….</p>",
+  "kategori": "c3",
+  "jawaban": [
+    {
+      "soal": "<p>0,3 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f70"
+      }
+    },
+    {
+      "soal": "<p>1,2 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f71"
+      }
+    },
+    {
+      "soal": "<p>2,5 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f72"
+      }
+    },
+    {
+      "soal": "<p>3,3 m/s2</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f73"
+      }
+    },
+    {
+      "soal": "<p>4,0 m/s2</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f74"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  }
+},{
+  "_id": {
+    "$oid": "650ab3f51b30638e1d299f75"
+  },
+  "soal": "<p>Mobil A bergerak dengan kelajuan tetap 36 km/jam. Setelah 20 sekon, mobil A disusul oleh mobil B yang bergerak dengan kelajuan tetap 72 km/jam. Maka pada jarak berapa mobil A dan B akan berdampingan adalah….</p>",
+  "kategori": "c3",
+  "jawaban": [
+    {
+      "soal": "<p>500 m</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f76"
+      }
+    },
+    {
+      "soal": "<p>400 m</p>",
+      "status": true,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f77"
+      }
+    },
+    {
+      "soal": "<p>300 m</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f78"
+      }
+    },
+    {
+      "soal": "<p>200 m</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f79"
+      }
+    },
+    {
+      "soal": "<p>100 m</p>",
+      "status": false,
+      "_id": {
+        "$oid": "650ab3f51b30638e1d299f7a"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T08:57:25.345Z"
+  }
+}]
