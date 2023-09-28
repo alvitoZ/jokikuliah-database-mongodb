@@ -1,180 +1,185 @@
-[{
-  "_id": {
-    "$oid": "650ab559078bdd06583512a5"
-  },
-  "soal": "<p>Nilai percepatan mobil yang sedang direm adalah ….s</p>",
-  "kategori": "c1",
-  "jawaban": [
-    {
-      "soal": "<p>nol</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512a6"
-      }
+[
+  {
+    "_id": {
+      "$oid": "650ab559078bdd06583512a5"
     },
-    {
-      "soal": "<p>tidak tentu</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512a7"
+    "soal": "<p>Nilai percepatan mobil yang sedang direm adalah ….s</p>",
+    "kategori": "c1",
+    "jawaban": [
+      {
+        "soal": "<p>nol</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512a6"
+        }
+      },
+      {
+        "soal": "<p>tidak tentu</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512a7"
+        }
+      },
+      {
+        "soal": "<p>positif</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512a8"
+        }
+      },
+      {
+        "soal": "<p>negatif</p>",
+        "status": true,
+        "_id": {
+          "$oid": "650ab559078bdd06583512a9"
+        }
+      },
+      {
+        "soal": "<p>tentu</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512aa"
+        }
       }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-20T09:03:21.153Z"
     },
-    {
-      "soal": "<p>positif</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512a8"
-      }
-    },
-    {
-      "soal": "<p>negatif</p>",
-      "status": true,
-      "_id": {
-        "$oid": "650ab559078bdd06583512a9"
-      }
-    },
-    {
-      "soal": "<p>tentu</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512aa"
-      }
+    "updatedAt": {
+      "$date": "2023-09-21T11:10:37.061Z"
     }
-  ],
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T09:03:21.153Z"
   },
-  "updatedAt": {
-    "$date": "2023-09-21T11:10:37.061Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ab559078bdd06583512ab"
-  },
-  "soal": "<p>Perhatikan ciri-ciri gerak berikut!</p><p>(1) Lintasan gerak berupa garis lurus</p><p>(2) Percepatan geraknya nol</p><p>(3) Percepatan geraknya stabil</p><p>(4) Kecepatan gerak konstan</p><p>Pernyataan yang merupakan ciri-ciri GLB ditunjukkan oleh nomor ….</p>",
-  "kategori": "c1",
-  "jawaban": [
-    {
-      "soal": "<p>(1), (2), dan (3)</p>",
-      "status": true,
-      "_id": {
-        "$oid": "650ab559078bdd06583512ac"
-      }
+  {
+    "_id": {
+      "$oid": "650ab559078bdd06583512ab"
     },
-    {
-      "soal": "<p>(1), (3), dan (4)</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512ad"
+    "soal": "<p>Perhatikan ciri-ciri gerak berikut!</p><p>(1) Lintasan gerak berupa garis lurus</p><p>(2) Percepatan geraknya nol</p><p>(3) Percepatan geraknya stabil</p><p>(4) Kecepatan gerak konstan</p><p>Pernyataan yang merupakan ciri-ciri GLB ditunjukkan oleh nomor ….</p>",
+    "kategori": "c1",
+    "jawaban": [
+      {
+        "soal": "<p>(1), (2), dan (3)</p>",
+        "status": true,
+        "_id": {
+          "$oid": "650ab559078bdd06583512ac"
+        }
+      },
+      {
+        "soal": "<p>(1), (3), dan (4)</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512ad"
+        }
+      },
+      {
+        "soal": "<p>(2), (3), dan (4)</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512ae"
+        }
+      },
+      {
+        "soal": "<p>(1), (2), dan (4)</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512af"
+        }
+      },
+      {
+        "soal": "<p>(1), (3), dan (2)</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512b0"
+        }
       }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-20T09:03:21.154Z"
     },
-    {
-      "soal": "<p>(2), (3), dan (4)</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512ae"
-      }
-    },
-    {
-      "soal": "<p>(1), (2), dan (4)</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512af"
-      }
-    },
-    {
-      "soal": "<p>(1), (3), dan (2)</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512b0"
-      }
+    "updatedAt": {
+      "$date": "2023-09-20T09:03:21.154Z"
     }
-  ],
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T09:03:21.154Z"
   },
-  "updatedAt": {
-    "$date": "2023-09-20T09:03:21.154Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ab559078bdd06583512b1"
-  },
-  "soal": "<p>Yang termasuk gerak lurus berubah beraturan adalah ....</p>",
-  "kategori": "c1",
-  "jawaban": [
-    {
-      "soal": "<p>mobil berjalan pada jalan pada jalan tol</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512b2"
-      }
+  {
+    "_id": {
+      "$oid": "650ab559078bdd06583512b1"
     },
-    {
-      "soal": "<p>benda jatuh</p>",
-      "status": true,
-      "_id": {
-        "$oid": "650ab559078bdd06583512b3"
+    "soal": "<p>Yang termasuk gerak lurus berubah beraturan adalah ....</p>",
+    "kategori": "c1",
+    "jawaban": [
+      {
+        "soal": "<p>mobil berjalan pada jalan pada jalan tol</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512b2"
+        }
+      },
+      {
+        "soal": "<p>benda jatuh</p>",
+        "status": true,
+        "_id": {
+          "$oid": "650ab559078bdd06583512b3"
+        }
+      },
+      {
+        "soal": "<p>orang berjalan</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512b4"
+        }
+      },
+      {
+        "soal": "<p>kapal berlayar</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650ab559078bdd06583512b5"
+        }
       }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-20T09:03:21.155Z"
     },
-    {
-      "soal": "<p>orang berjalan</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512b4"
-      }
-    },
-    {
-      "soal": "<p>kapal berlayar</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650ab559078bdd06583512b5"
-      }
+    "updatedAt": {
+      "$date": "2023-09-20T09:03:21.155Z"
     }
-  ],
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T09:03:21.155Z"
   },
-  "updatedAt": {
-    "$date": "2023-09-20T09:03:21.155Z"
-  }
-},{
-  "_id": {
-    "$oid": "650af5f8078bdd065835209b"
-  },
-  "soal": "<p></p><img src=\"http://localhost:3001/images/image-1694787302203-937428907.PNG\"><p>meong ke 5 cuy</p>",
-  "kategori": "c1",
-  "jawaban": [
-    {
-      "soal": "<p>a</p>",
-      "status": true,
-      "_id": {
-        "$oid": "650af5f8078bdd065835209c"
-      }
+  {
+    "_id": {
+      "$oid": "650af5f8078bdd065835209b"
     },
-    {
-      "soal": "<p>b</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650af5f8078bdd065835209d"
+    "soal": "<p></p><img src=\"https://09d1-103-186-31-38.ngrok-free.app/images/image-1694787302203-937428907.PNG\"><p>meong ke 5 cuy</p>",
+    "kategori": "c1",
+    "jawaban": [
+      {
+        "soal": "<p>a</p>",
+        "status": true,
+        "_id": {
+          "$oid": "650af5f8078bdd065835209c"
+        }
+      },
+      {
+        "soal": "<p>b</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650af5f8078bdd065835209d"
+        }
+      },
+      {
+        "soal": "<p>c</p>",
+        "status": false,
+        "_id": {
+          "$oid": "650af5f8078bdd065835209e"
+        }
       }
+    ],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-09-20T13:39:04.951Z"
     },
-    {
-      "soal": "<p>c</p>",
-      "status": false,
-      "_id": {
-        "$oid": "650af5f8078bdd065835209e"
-      }
+    "updatedAt": {
+      "$date": "2023-09-20T13:56:37.394Z"
     }
-  ],
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T13:39:04.951Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T13:56:37.394Z"
   }
-}]
+]
