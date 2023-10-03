@@ -58,35 +58,35 @@
     "kategori": "c6",
     "jawaban": [
       {
-        "soal": "<img src=\"https://miscui.serveo.net/images/image-1694787190793-442206841.PNG\">",
+        "soal": "<img src=\"https://neco.serveo.net/images/image-1694787190793-442206841.PNG\">",
         "status": true,
         "_id": {
           "$oid": "650ab73d078bdd06583512f6"
         }
       },
       {
-        "soal": "<img src=\"https://miscui.serveo.net/images/image-1694787218905-866524880.PNG\">",
+        "soal": "<img src=\"https://neco.serveo.net/images/image-1694787218905-866524880.PNG\">",
         "status": false,
         "_id": {
           "$oid": "650ab73d078bdd06583512f7"
         }
       },
       {
-        "soal": "<img src=\"https://miscui.serveo.net/images/image-1694787259577-64925878.PNG\">",
+        "soal": "<img src=\"https://neco.serveo.net/images/image-1694787259577-64925878.PNG\">",
         "status": false,
         "_id": {
           "$oid": "650ab73d078bdd06583512f8"
         }
       },
       {
-        "soal": "<img src=\"https://miscui.serveo.net/images/image-1694787283663-372546383.PNG\">",
+        "soal": "<img src=\"https://neco.serveo.net/images/image-1694787283663-372546383.PNG\">",
         "status": false,
         "_id": {
           "$oid": "650ab73d078bdd06583512f9"
         }
       },
       {
-        "soal": "<img src=\"https://miscui.serveo.net/images/image-1694787302203-937428907.PNG\">",
+        "soal": "<img src=\"https://neco.serveo.net/images/image-1694787302203-937428907.PNG\">",
         "status": false,
         "_id": {
           "$oid": "650ab73d078bdd06583512fa"
