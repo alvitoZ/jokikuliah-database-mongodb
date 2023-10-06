@@ -1,239 +1,177 @@
-[{
-  "_id": {
-    "$oid": "6506f47ff0eaf67b56226b16"
+[
+  {
+    "_id": "651a79b1120ff5ea41cd9a95",
+    "student_name": "kitan",
+    "session_id": "GrRu8iDH2j-7",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 0,
+        "_id": "651a79b1120ff5ea41cd9a96"
+      },
+      {
+        "kategori": "c2",
+        "nilai": 33.3,
+        "_id": "651a79b1120ff5ea41cd9a97"
+      },
+      {
+        "kategori": "c3",
+        "nilai": 3000,
+        "_id": "651aaeba6e3fe34a28c173b3"
+      },
+      {
+        "kategori": "c4",
+        "nilai": 0,
+        "_id": "651a79b1120ff5ea41cd9a99"
+      },
+      {
+        "kategori": "c5",
+        "nilai": 33.3,
+        "_id": "651a79b1120ff5ea41cd9a9a"
+      },
+      {
+        "kategori": "c6",
+        "nilai": 0,
+        "_id": "651a79b1120ff5ea41cd9a9b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-02T08:05:05.818Z",
+    "updatedAt": "2023-10-02T11:51:22.980Z"
   },
-  "nama": "alvito",
-  "nilai": 10,
-  "kategori": "c1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-17T12:43:43.299Z"
+  {
+    "_id": "651a79c7120ff5ea41cd9b04",
+    "student_name": "ikuyo",
+    "session_id": "OUUT3QuuGKYT",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 25,
+        "_id": "651a79c7120ff5ea41cd9b05"
+      },
+      {
+        "kategori": "c3",
+        "nilai": 33.3,
+        "_id": "651a79c7120ff5ea41cd9b07"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-02T08:05:27.074Z",
+    "updatedAt": "2023-10-02T12:38:23.639Z"
   },
-  "updatedAt": {
-    "$date": "2023-09-17T12:43:43.299Z"
+  {
+    "_id": "651e81e7ec9ea0cd0bb36c49",
+    "student_name": "mengkitan",
+    "session_id": "I6d660Xyoj82",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 50,
+        "_id": "651e81e7ec9ea0cd0bb36c4a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:29:11.513Z",
+    "updatedAt": "2023-10-05T09:29:11.513Z"
+  },
+  {
+    "_id": "651e8265ec9ea0cd0bb36c93",
+    "student_name": "kitan",
+    "session_id": "vG5MyPjLbugB",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 50,
+        "_id": "651e8265ec9ea0cd0bb36c94"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:31:17.685Z",
+    "updatedAt": "2023-10-05T09:31:17.685Z"
+  },
+  {
+    "_id": "651e82cfec9ea0cd0bb36cdd",
+    "student_name": "ikuyo",
+    "session_id": "Ua4Vg-06MuAF",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 25,
+        "_id": "651e82cfec9ea0cd0bb36cde"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:33:03.161Z",
+    "updatedAt": "2023-10-05T09:33:03.161Z"
+  },
+  {
+    "_id": "651e82daec9ea0cd0bb36d15",
+    "student_name": "ikuyo",
+    "session_id": "F9maHF1kRtKp",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 50,
+        "_id": "651e82daec9ea0cd0bb36d16"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:33:14.031Z",
+    "updatedAt": "2023-10-05T09:33:14.031Z"
+  },
+  {
+    "_id": "651e82e3ec9ea0cd0bb36d4d",
+    "student_name": "mengkitan",
+    "session_id": "1TXYRhqcuHoB",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 75,
+        "_id": "651e82e3ec9ea0cd0bb36d4e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:33:23.450Z",
+    "updatedAt": "2023-10-05T09:33:23.450Z"
+  },
+  {
+    "_id": "651e8338ec9ea0cd0bb36e23",
+    "student_name": "ikuyo",
+    "session_id": "Dx4m5KCph2pl",
+    "nilai": [
+      {
+        "kategori": "c1",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e24"
+      },
+      {
+        "kategori": "c2",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e25"
+      },
+      {
+        "kategori": "c3",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e26"
+      },
+      {
+        "kategori": "c4",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e27"
+      },
+      {
+        "kategori": "c5",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e28"
+      },
+      {
+        "kategori": "c6",
+        "nilai": 100,
+        "_id": "651e8338ec9ea0cd0bb36e29"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2023-10-05T09:34:48.129Z",
+    "updatedAt": "2023-10-05T09:34:48.129Z"
   }
-},{
-  "_id": {
-    "$oid": "6506f4f59631cbde939c6540"
-  },
-  "nama": "alvito",
-  "nilai": 12,
-  "kategori": "c1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-17T12:45:41.246Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-17T12:45:41.246Z"
-  }
-},{
-  "_id": {
-    "$oid": "6506f5259631cbde939c67c9"
-  },
-  "nama": "alvito",
-  "nilai": 10,
-  "kategori": "c3",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-17T12:46:29.192Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-17T12:46:29.192Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ab1a13d2210aacd040d71"
-  },
-  "nama": "kitan",
-  "nilai": 12,
-  "kategori": "C1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T08:47:29.400Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T08:47:29.400Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ab1cc3d2210aacd040d73"
-  },
-  "nama": "kitan",
-  "nilai": 12,
-  "kategori": "C1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T08:48:12.350Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T08:48:12.350Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ab1f9e23afd1d62cd140b"
-  },
-  "nama": "kitan",
-  "nilai": 12,
-  "kategori": "C1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T08:48:57.218Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T08:48:57.218Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac3df078bdd06583515ab"
-  },
-  "nama": "kitan2",
-  "nilai": 12,
-  "kategori": "c1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:05:19.748Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:05:19.748Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac3fb078bdd06583515dc"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:05:47.607Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:05:47.607Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac407078bdd06583515fd"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c2",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:05:59.437Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:05:59.437Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac414078bdd065835161f"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c3",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:06:12.993Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:06:12.993Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac427078bdd0658351641"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c4",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:06:31.546Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:06:31.546Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac431078bdd0658351662"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c5",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:06:41.747Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:06:41.747Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ac43a078bdd0658351683"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c6",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T10:06:50.141Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T10:06:50.141Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ae4b1078bdd0658351775"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c1",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T12:25:21.297Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T12:25:21.297Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ae4b7078bdd0658351796"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c2",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T12:25:27.428Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T12:25:27.428Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ae4c0078bdd06583517b8"
-  },
-  "nama": "kitan2",
-  "nilai": 10,
-  "kategori": "c3",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T12:25:36.314Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T12:25:36.314Z"
-  }
-},{
-  "_id": {
-    "$oid": "650ae4d8078bdd06583517de"
-  },
-  "nama": "kitan2",
-  "nilai": 14,
-  "kategori": "c4",
-  "__v": 0,
-  "createdAt": {
-    "$date": "2023-09-20T12:26:00.419Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-20T12:26:00.419Z"
-  }
-}]
+]
